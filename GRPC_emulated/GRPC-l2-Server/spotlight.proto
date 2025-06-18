@@ -1,0 +1,37 @@
+syntax = "proto3";
+
+package EmulatedClient;
+import "google/protobuf/empty.proto";
+// Request message for GetModel
+message ModelRequest {}
+
+// Response message for GetModel
+message ModelResponse {
+    string message = 1;
+    map<string, float> model_state_dict = 2;
+    int32 version = 3;
+    int32 global_version = 4;
+    repeated string emulated_clients = 5;
+}
+
+message WeightsUpdate {
+    repeated float model_weights = 1; // Updated to use ModelWeights map
+    int32 num_samples = 2;
+    string model_type=3;
+}
+
+message ModelWeights {
+    repeated float values = 1; // A list of weights for each layer
+}
+
+// Response message for UpdateModel
+message UpdateResponse {
+    string message = 1; // Updated to use ModelWeights map
+}
+
+// gRPC service
+service ModelService {
+    rpc GetModel (ModelRequest) returns (google.protobuf.Empty);
+    rpc UpdateModel (WeightsUpdate) returns (UpdateResponse);
+    rpc updateL3(WeightsUpdate) returns (UpdateResponse);
+}

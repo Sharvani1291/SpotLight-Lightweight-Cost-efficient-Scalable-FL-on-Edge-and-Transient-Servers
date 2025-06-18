@@ -1,0 +1,6 @@
+2024-08-06 04:32:58,811 - LifeLogger - INFO - Attempting to connect to MongoDB at mongodb://172.22.85.17:27017
+2024-08-06 04:32:58,818 - LifeLogger - INFO - Connection to MongoDB established
+2024-08-06 04:37:11,897 - LifeLogger - INFO - Attempting to connect to MongoDB at mongodb://172.22.85.17:27017
+2024-08-06 04:37:11,905 - LifeLogger - INFO - Connection to MongoDB established
+2024-08-06 04:37:11,905 - LifeLogger - INFO - Inserting document into collection checkLife: {'time': '2024-08-06T04:37:11.905566', 'status': 1}
+2024-08-06 04:37:11,943 - LifeLogger - INFO - Document inserted successfully

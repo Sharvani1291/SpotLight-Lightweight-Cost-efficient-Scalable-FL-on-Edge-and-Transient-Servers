@@ -1,0 +1,41 @@
+version: "3.9"
+
+networks:
+  gossip-net:
+    driver: bridge
+
+services:
+  gossip-node-1:
+    environment:
+      NODE_NAME: gossip-node-1
+      MONGO_URI: "mongodb://clUser:CloudLab@172.22.85.17:27017/"
+      MONGO_DB: "papaya"
+      MONGO_COLLECTION: "papaya-gossip"
+      NODE_PORT: 8000
+    hostname: gossip-node-1
+    image: vinabirajdar/gossip:final
+    networks:
+      - gossip-net
+  gossip-node-2:
+    environment:
+      NODE_NAME: gossip-node-2
+      MONGO_URI: "mongodb://clUser:CloudLab@172.22.85.17:27017/"
+      MONGO_DB: "papaya"
+      MONGO_COLLECTION: "papaya-gossip"
+      NODE_PORT: 8000
+    hostname: gossip-node-2
+    image: vinabirajdar/gossip:final
+    networks:
+      - gossip-net
+
+  gossip-node-3:
+    environment:
+      NODE_NAME: gossip-node-3
+      MONGO_URI: "mongodb://clUser:CloudLab@172.22.85.17:27017/"
+      MONGO_DB: "papaya"
+      MONGO_COLLECTION: "papaya-gossip"
+      NODE_PORT: 8000
+    hostname: gossip-node-3
+    image: vinabirajdar/gossip:final
+    networks:
+      - gossip-net

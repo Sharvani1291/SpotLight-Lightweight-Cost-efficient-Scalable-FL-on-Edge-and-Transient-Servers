@@ -1,0 +1,7 @@
+numpy 
+numba
+grpcio
+grpcio-tools
+motor
+pymongo
+python-dotenv

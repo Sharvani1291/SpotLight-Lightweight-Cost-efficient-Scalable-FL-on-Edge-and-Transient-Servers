@@ -1,0 +1,7 @@
+aiohttp
+grpcio
+grpcio-tools
+motor
+python-dotenv
+numba
+numpy

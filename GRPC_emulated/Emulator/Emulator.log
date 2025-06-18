@@ -1,0 +1,809 @@
+2025-02-12 10:50:35,967 - INFO - cdf_value: 0.714451398949825
+2025-02-12 10:50:35,997 - INFO - deflection_lifetime,max_lifetime: 108.0,1200
+2025-02-12 10:50:36,010 - INFO - Set the reset the status to active
+2025-02-12 10:50:36,049 - INFO - No pods to be deleted
+2025-02-12 10:50:36,049 - INFO - No pods to be deleted
+2025-02-12 10:51:16,268 - INFO - cdf_value: 0.7520334298851938
+2025-02-12 10:51:16,274 - INFO - deflection_lifetime,max_lifetime: 138.0,1200
+2025-02-12 10:51:16,281 - INFO - Set the reset the status to active
+2025-02-12 10:51:16,314 - INFO - No pods to be deleted
+2025-02-12 10:51:16,315 - INFO - No pods to be deleted
+2025-02-12 10:51:16,315 - INFO - No pods to be deleted
+2025-02-12 10:51:38,505 - INFO - cdf_value: 0.7321515501215736
+2025-02-12 10:51:38,511 - INFO - deflection_lifetime,max_lifetime: 120.0,1200
+2025-02-12 10:51:38,518 - INFO - Set the reset the status to active
+2025-02-12 10:51:48,569 - INFO - No pods to be deleted
+2025-02-12 10:51:48,570 - INFO - No pods to be deleted
+2025-02-12 10:51:48,571 - INFO - No pods to be deleted
+2025-02-12 10:51:48,572 - INFO - No pods to be deleted
+2025-02-12 10:52:11,441 - INFO - cdf_value: 0.7109997177735657
+2025-02-12 10:52:11,447 - INFO - deflection_lifetime,max_lifetime: 105.0,1200
+2025-02-12 10:52:11,454 - INFO - Set the reset the status to active
+2025-02-12 10:52:11,489 - INFO - No pods to be deleted
+2025-02-12 10:52:32,687 - INFO - cdf_value: 0.8747725107171207
+2025-02-12 10:52:32,691 - INFO - deflection_lifetime,max_lifetime: 548.0,1200
+2025-02-12 10:52:32,698 - INFO - Set the reset the status to active
+2025-02-12 10:52:32,733 - INFO - No pods to be deleted
+2025-02-12 10:52:32,733 - INFO - No pods to be deleted
+2025-02-12 10:52:32,733 - INFO - No pods to be deleted
+2025-02-12 10:52:32,733 - INFO - No pods to be deleted
+2025-02-12 10:52:32,733 - INFO - No pods to be deleted
+2025-02-12 10:52:32,733 - INFO - No pods to be deleted
+2025-02-12 10:52:42,762 - INFO - No pods to be deleted
+2025-02-12 10:52:42,763 - INFO - Pods with lifetime >= peak lifetime deleted.
+2025-02-12 10:52:42,904 - INFO - cdf_value: 0.8313463234968067
+2025-02-12 10:52:42,908 - INFO - deflection_lifetime,max_lifetime: 298.0,1200
+2025-02-12 10:52:42,914 - INFO - Set the reset the status to active
+2025-02-12 10:52:42,949 - INFO - No pods to be deleted
+2025-02-12 10:52:42,949 - INFO - No pods to be deleted
+2025-02-12 10:52:42,949 - INFO - No pods to be deleted
+2025-02-12 10:52:42,949 - INFO - No pods to be deleted
+2025-02-12 10:52:42,949 - INFO - No pods to be deleted
+2025-02-12 10:52:42,949 - INFO - No pods to be deleted
+2025-02-12 10:52:52,967 - INFO - No pods to be deleted
+2025-02-12 10:52:52,967 - INFO - Pods with lifetime >= peak lifetime deleted.
+2025-02-12 10:52:53,104 - INFO - cdf_value: 0.8569182118239267
+2025-02-12 10:52:53,107 - INFO - deflection_lifetime,max_lifetime: 417.0,1200
+2025-02-12 10:52:53,114 - INFO - Set the reset the status to active
+2025-02-12 10:52:53,147 - INFO - No pods to be deleted
+2025-02-12 10:52:53,147 - INFO - No pods to be deleted
+2025-02-12 10:52:53,147 - INFO - No pods to be deleted
+2025-02-12 10:52:53,147 - INFO - No pods to be deleted
+2025-02-12 10:52:53,147 - INFO - No pods to be deleted
+2025-02-12 10:52:53,147 - INFO - No pods to be deleted
+2025-02-12 10:54:04,624 - INFO - cdf_value: 0.7679176793387738
+2025-02-12 10:54:04,629 - INFO - deflection_lifetime,max_lifetime: 158.0,1200
+2025-02-12 10:54:04,636 - INFO - Set the reset the status to active
+2025-02-12 10:54:04,668 - INFO - No pods to be deleted
+2025-02-12 10:54:04,668 - INFO - No pods to be deleted
+2025-02-12 10:54:34,756 - INFO - No pods to be deleted
+2025-02-12 10:54:44,792 - INFO - Pods with lifetime >= peak lifetime deleted.
+2025-02-12 10:54:44,933 - INFO - cdf_value: 0.8169407318091079
+2025-02-12 10:54:44,937 - INFO - deflection_lifetime,max_lifetime: 250.0,1200
+2025-02-12 10:54:44,943 - INFO - Set the reset the status to active
+2025-02-12 10:54:44,976 - INFO - No pods to be deleted
+2025-02-12 10:54:44,976 - INFO - No pods to be deleted
+2025-02-12 10:54:44,977 - INFO - No pods to be deleted
+2025-02-12 10:54:44,977 - INFO - No pods to be deleted
+2025-02-12 10:54:44,977 - INFO - No pods to be deleted
+2025-02-12 10:54:44,977 - INFO - No pods to be deleted
+2025-02-12 10:54:44,977 - INFO - No pods to be deleted
+2025-02-12 10:54:44,977 - INFO - No pods to be deleted
+2025-02-12 10:54:44,977 - INFO - Pods with lifetime >= peak lifetime deleted.
+2025-02-12 10:54:45,127 - INFO - cdf_value: 0.7495934310175891
+2025-02-12 10:54:45,132 - INFO - deflection_lifetime,max_lifetime: 135.0,1200
+2025-02-12 10:54:45,140 - INFO - Set the reset the status to active
+2025-02-12 10:55:05,230 - INFO - No pods to be deleted
+2025-02-12 10:55:05,231 - INFO - No pods to be deleted
+2025-02-12 10:55:05,231 - INFO - No pods to be deleted
+2025-02-12 10:55:15,253 - INFO - No pods to be deleted
+2025-02-26 22:38:40,492 - INFO - cdf_value: 0.7868824933008403
+2025-02-26 22:38:40,554 - INFO - deflection_lifetime,max_lifetime: 186.0,1200
+2025-02-26 22:38:40,568 - INFO - Set the reset the status to active
+2025-02-26 22:39:50,784 - INFO - Pods with lifetime >= peak lifetime deleted.
+2025-02-26 22:39:50,933 - INFO - cdf_value: 0.7704334227867039
+2025-02-26 22:39:50,940 - INFO - deflection_lifetime,max_lifetime: 162.0,1200
+2025-02-26 22:39:50,949 - INFO - Set the reset the status to active
+2025-02-26 22:39:50,987 - INFO - No pods to be deleted
+2025-02-26 22:39:50,987 - INFO - No pods to be deleted
+2025-02-26 22:39:50,987 - INFO - No pods to be deleted
+2025-02-26 22:39:50,987 - INFO - No pods to be deleted
+2025-02-26 22:39:50,987 - INFO - No pods to be deleted
+2025-02-26 22:39:50,987 - INFO - No pods to be deleted
+2025-02-26 22:40:11,022 - INFO - No pods to be deleted
+2025-02-26 22:40:11,022 - INFO - Pods with lifetime >= peak lifetime deleted.
+2025-02-26 22:40:11,186 - INFO - cdf_value: 0.8132195987112739
+2025-02-26 22:40:11,191 - INFO - deflection_lifetime,max_lifetime: 242.0,1200
+2025-02-26 22:40:11,199 - INFO - Set the reset the status to active
+2025-02-26 22:40:11,234 - INFO - No pods to be deleted
+2025-02-26 22:40:11,234 - INFO - No pods to be deleted
+2025-02-26 22:40:11,235 - INFO - No pods to be deleted
+2025-02-26 22:40:11,235 - INFO - No pods to be deleted
+2025-02-26 22:40:11,235 - INFO - No pods to be deleted
+2025-02-26 22:40:11,235 - INFO - No pods to be deleted
+2025-02-26 22:40:21,251 - INFO - No pods to be deleted
+2025-02-26 22:40:21,251 - INFO - Pods with lifetime >= peak lifetime deleted.
+2025-02-26 22:40:21,386 - INFO - cdf_value: 0.743896433151585
+2025-02-26 22:40:21,406 - INFO - deflection_lifetime,max_lifetime: 129.0,1200
+2025-02-26 22:40:21,413 - INFO - Set the reset the status to active
+2025-02-26 22:40:21,443 - INFO - No pods to be deleted
+2025-02-26 22:40:21,444 - INFO - No pods to be deleted
+2025-02-26 22:40:21,444 - INFO - No pods to be deleted
+2025-02-26 22:40:21,444 - INFO - No pods to be deleted
+2025-02-26 22:40:21,444 - INFO - No pods to be deleted
+2025-02-26 22:40:21,444 - INFO - No pods to be deleted
+2025-02-26 22:40:21,444 - INFO - No pods to be deleted
+2025-02-26 22:40:21,444 - INFO - Pods with lifetime >= peak lifetime deleted.
+2025-02-26 22:40:21,578 - INFO - cdf_value: 0.7458117216261139
+2025-02-26 22:40:21,582 - INFO - deflection_lifetime,max_lifetime: 131.0,1200
+2025-02-26 22:40:21,589 - INFO - Set the reset the status to active
+2025-02-26 22:40:21,618 - INFO - No pods to be deleted
+2025-02-26 22:40:21,619 - INFO - No pods to be deleted
+2025-02-26 22:40:21,619 - INFO - No pods to be deleted
+2025-02-26 22:40:21,619 - INFO - No pods to be deleted
+2025-02-26 22:40:21,619 - INFO - No pods to be deleted
+2025-02-26 22:40:21,619 - INFO - No pods to be deleted
+2025-02-26 22:40:21,619 - INFO - No pods to be deleted
+2025-02-26 22:40:21,619 - INFO - Pods with lifetime >= peak lifetime deleted.
+2025-02-26 22:40:21,762 - INFO - cdf_value: 0.7642610792814707
+2025-02-26 22:40:21,767 - INFO - deflection_lifetime,max_lifetime: 154.0,1200
+2025-02-26 22:40:21,774 - INFO - Set the reset the status to active
+2025-02-26 22:40:21,805 - INFO - No pods to be deleted
+2025-02-26 22:40:21,806 - INFO - No pods to be deleted
+2025-02-26 22:40:21,806 - INFO - No pods to be deleted
+2025-02-26 22:40:21,806 - INFO - No pods to be deleted
+2025-02-26 22:40:21,806 - INFO - No pods to be deleted
+2025-02-26 22:40:21,806 - INFO - No pods to be deleted
+2025-02-26 22:40:21,806 - INFO - No pods to be deleted
+2025-02-26 22:40:21,806 - INFO - Pods with lifetime >= peak lifetime deleted.
+2025-02-26 22:40:21,940 - INFO - cdf_value: 0.8371260311540607
+2025-02-26 22:40:21,943 - INFO - deflection_lifetime,max_lifetime: 318.0,1200
+2025-02-26 22:40:21,949 - INFO - Set the reset the status to active
+2025-02-26 22:40:21,979 - INFO - No pods to be deleted
+2025-02-26 22:40:21,979 - INFO - No pods to be deleted
+2025-02-26 22:40:21,979 - INFO - No pods to be deleted
+2025-02-26 22:40:21,979 - INFO - No pods to be deleted
+2025-02-26 22:40:21,979 - INFO - No pods to be deleted
+2025-02-26 22:40:21,979 - INFO - No pods to be deleted
+2025-02-26 22:40:21,979 - INFO - No pods to be deleted
+2025-02-26 22:40:21,979 - INFO - Pods with lifetime >= peak lifetime deleted.
+2025-02-26 22:40:22,109 - INFO - cdf_value: 0.8377491925108311
+2025-02-26 22:40:22,113 - INFO - deflection_lifetime,max_lifetime: 321.0,1200
+2025-02-26 22:40:22,118 - INFO - Set the reset the status to active
+2025-02-26 22:40:22,148 - INFO - No pods to be deleted
+2025-02-26 22:40:22,148 - INFO - No pods to be deleted
+2025-02-26 22:40:22,148 - INFO - No pods to be deleted
+2025-02-26 22:40:22,148 - INFO - No pods to be deleted
+2025-02-26 22:40:22,148 - INFO - No pods to be deleted
+2025-02-26 22:40:22,148 - INFO - No pods to be deleted
+2025-02-26 22:40:22,148 - INFO - No pods to be deleted
+2025-02-26 22:40:22,148 - INFO - Pods with lifetime >= peak lifetime deleted.
+2025-02-26 22:40:22,301 - INFO - cdf_value: 0.7607657671030075
+2025-02-26 22:40:22,306 - INFO - deflection_lifetime,max_lifetime: 149.0,1200
+2025-02-26 22:40:22,313 - INFO - Set the reset the status to active
+2025-02-26 22:40:22,343 - INFO - No pods to be deleted
+2025-02-26 22:40:22,343 - INFO - No pods to be deleted
+2025-02-26 22:40:22,343 - INFO - No pods to be deleted
+2025-02-26 22:40:22,343 - INFO - No pods to be deleted
+2025-02-26 22:40:22,343 - INFO - No pods to be deleted
+2025-02-26 22:40:22,343 - INFO - No pods to be deleted
+2025-02-26 22:40:22,343 - INFO - No pods to be deleted
+2025-02-26 22:40:22,343 - INFO - Pods with lifetime >= peak lifetime deleted.
+2025-02-26 22:40:22,494 - INFO - cdf_value: 0.774979104837394
+2025-02-26 22:40:22,499 - INFO - deflection_lifetime,max_lifetime: 170.0,1200
+2025-02-26 22:40:22,506 - INFO - Set the reset the status to active
+2025-02-26 22:40:22,537 - INFO - No pods to be deleted
+2025-02-26 22:40:22,537 - INFO - No pods to be deleted
+2025-02-26 22:40:22,537 - INFO - No pods to be deleted
+2025-02-26 22:40:22,537 - INFO - No pods to be deleted
+2025-02-26 22:40:22,537 - INFO - No pods to be deleted
+2025-02-26 22:40:22,537 - INFO - No pods to be deleted
+2025-02-26 22:40:22,537 - INFO - No pods to be deleted
+2025-02-26 22:40:22,537 - INFO - Pods with lifetime >= peak lifetime deleted.
+2025-02-26 22:40:22,668 - INFO - cdf_value: 0.7748580154958817
+2025-02-26 22:40:22,672 - INFO - deflection_lifetime,max_lifetime: 170.0,1200
+2025-02-26 22:40:22,678 - INFO - Set the reset the status to active
+2025-02-26 22:40:22,707 - INFO - No pods to be deleted
+2025-02-26 22:40:22,708 - INFO - No pods to be deleted
+2025-02-26 22:40:22,708 - INFO - No pods to be deleted
+2025-02-26 22:40:22,708 - INFO - No pods to be deleted
+2025-02-26 22:40:22,708 - INFO - No pods to be deleted
+2025-02-26 22:40:22,708 - INFO - No pods to be deleted
+2025-02-26 22:40:22,708 - INFO - No pods to be deleted
+2025-02-26 22:40:22,708 - INFO - Pods with lifetime >= peak lifetime deleted.
+2025-02-26 22:40:22,837 - INFO - cdf_value: 0.8265007049315657
+2025-02-26 22:40:22,840 - INFO - deflection_lifetime,max_lifetime: 282.0,1200
+2025-02-26 22:40:22,846 - INFO - Set the reset the status to active
+2025-02-26 22:40:22,876 - INFO - No pods to be deleted
+2025-02-26 22:40:22,876 - INFO - No pods to be deleted
+2025-02-26 22:40:22,876 - INFO - No pods to be deleted
+2025-02-26 22:40:22,876 - INFO - No pods to be deleted
+2025-02-26 22:40:22,876 - INFO - No pods to be deleted
+2025-02-26 22:40:22,876 - INFO - No pods to be deleted
+2025-02-26 22:40:22,876 - INFO - No pods to be deleted
+2025-02-26 22:40:22,876 - INFO - Pods with lifetime >= peak lifetime deleted.
+2025-02-26 22:40:23,007 - INFO - cdf_value: 0.8730001318261591
+2025-02-26 22:40:23,010 - INFO - deflection_lifetime,max_lifetime: 534.0,1200
+2025-02-26 22:40:23,015 - INFO - Set the reset the status to active
+2025-02-26 22:40:23,046 - INFO - No pods to be deleted
+2025-02-26 22:40:23,046 - INFO - No pods to be deleted
+2025-02-26 22:40:23,046 - INFO - No pods to be deleted
+2025-02-26 22:40:23,046 - INFO - No pods to be deleted
+2025-02-26 22:40:23,046 - INFO - No pods to be deleted
+2025-02-26 22:40:23,046 - INFO - No pods to be deleted
+2025-02-26 22:40:23,046 - INFO - No pods to be deleted
+2025-02-26 22:40:23,046 - INFO - Pods with lifetime >= peak lifetime deleted.
+2025-02-26 22:40:23,176 - INFO - cdf_value: 0.7361087412635865
+2025-02-26 22:40:23,180 - INFO - deflection_lifetime,max_lifetime: 122.0,1200
+2025-02-26 22:40:23,186 - INFO - Set the reset the status to active
+2025-02-26 22:40:23,238 - INFO - No pods to be deleted
+2025-02-26 22:40:23,239 - INFO - No pods to be deleted
+2025-02-26 22:40:23,239 - INFO - No pods to be deleted
+2025-02-26 22:40:23,239 - INFO - No pods to be deleted
+2025-02-26 22:40:23,239 - INFO - No pods to be deleted
+2025-02-26 22:40:23,239 - INFO - No pods to be deleted
+2025-02-26 22:40:23,239 - INFO - No pods to be deleted
+2025-02-26 22:40:23,239 - INFO - Pods with lifetime >= peak lifetime deleted.
+2025-02-26 22:40:23,389 - INFO - cdf_value: 0.8599105722469804
+2025-02-26 22:40:23,393 - INFO - deflection_lifetime,max_lifetime: 435.0,1200
+2025-02-26 22:40:23,401 - INFO - Set the reset the status to active
+2025-02-26 22:40:23,432 - INFO - No pods to be deleted
+2025-02-26 22:40:23,432 - INFO - No pods to be deleted
+2025-02-26 22:40:23,432 - INFO - No pods to be deleted
+2025-02-26 22:40:23,432 - INFO - No pods to be deleted
+2025-02-26 22:40:23,432 - INFO - No pods to be deleted
+2025-02-26 22:40:23,432 - INFO - No pods to be deleted
+2025-02-26 22:40:23,432 - INFO - No pods to be deleted
+2025-02-26 22:40:23,432 - INFO - Pods with lifetime >= peak lifetime deleted.
+2025-02-26 22:40:23,579 - INFO - cdf_value: 0.890126244919407
+2025-02-26 22:40:23,583 - INFO - deflection_lifetime,max_lifetime: 1200.0,1200
+2025-02-26 22:40:23,591 - INFO - Set the reset the status to active
+2025-02-26 22:40:23,621 - INFO - No pods to be deleted
+2025-02-26 22:40:23,622 - INFO - No pods to be deleted
+2025-02-26 22:40:23,622 - INFO - No pods to be deleted
+2025-02-26 22:40:23,622 - INFO - No pods to be deleted
+2025-02-26 22:40:23,622 - INFO - No pods to be deleted
+2025-02-26 22:40:23,622 - INFO - No pods to be deleted
+2025-02-26 22:40:23,622 - INFO - No pods to be deleted
+2025-02-26 22:40:23,622 - INFO - Pods with lifetime >= peak lifetime deleted.
+2025-02-26 22:40:23,752 - INFO - cdf_value: 0.756525573287121
+2025-02-26 22:40:23,756 - INFO - deflection_lifetime,max_lifetime: 144.0,1200
+2025-02-26 22:40:23,761 - INFO - Set the reset the status to active
+2025-02-26 22:40:23,791 - INFO - No pods to be deleted
+2025-02-26 22:40:23,791 - INFO - No pods to be deleted
+2025-02-26 22:40:23,791 - INFO - No pods to be deleted
+2025-02-26 22:40:23,791 - INFO - No pods to be deleted
+2025-02-26 22:40:23,791 - INFO - No pods to be deleted
+2025-02-26 22:40:23,791 - INFO - No pods to be deleted
+2025-02-26 22:40:23,791 - INFO - No pods to be deleted
+2025-02-26 22:40:23,791 - INFO - Pods with lifetime >= peak lifetime deleted.
+2025-02-26 22:40:23,922 - INFO - cdf_value: 0.8183742936518664
+2025-02-26 22:40:23,925 - INFO - deflection_lifetime,max_lifetime: 255.0,1200
+2025-02-26 22:40:23,931 - INFO - Set the reset the status to active
+2025-02-26 22:40:23,961 - INFO - No pods to be deleted
+2025-02-26 22:40:23,961 - INFO - No pods to be deleted
+2025-02-26 22:40:23,961 - INFO - No pods to be deleted
+2025-02-26 22:40:23,961 - INFO - No pods to be deleted
+2025-02-26 22:40:23,961 - INFO - No pods to be deleted
+2025-02-26 22:40:23,961 - INFO - No pods to be deleted
+2025-02-26 22:40:23,962 - INFO - No pods to be deleted
+2025-02-26 22:40:23,962 - INFO - Pods with lifetime >= peak lifetime deleted.
+2025-02-26 22:40:24,092 - INFO - cdf_value: 0.8935337746852363
+2025-02-26 22:40:24,095 - INFO - deflection_lifetime,max_lifetime: 1200.0,1200
+2025-02-26 22:40:24,101 - INFO - Set the reset the status to active
+2025-02-26 22:40:24,130 - INFO - No pods to be deleted
+2025-02-26 22:40:24,130 - INFO - No pods to be deleted
+2025-02-26 22:40:24,130 - INFO - No pods to be deleted
+2025-02-26 22:40:24,130 - INFO - No pods to be deleted
+2025-02-26 22:40:24,130 - INFO - No pods to be deleted
+2025-02-26 22:40:24,130 - INFO - No pods to be deleted
+2025-02-26 22:40:24,130 - INFO - No pods to be deleted
+2025-02-26 22:40:24,130 - INFO - Pods with lifetime >= peak lifetime deleted.
+2025-02-26 22:40:24,277 - INFO - cdf_value: 0.7870218955408362
+2025-02-26 22:40:24,282 - INFO - deflection_lifetime,max_lifetime: 186.0,1200
+2025-02-26 22:40:24,289 - INFO - Set the reset the status to active
+2025-02-26 22:40:24,324 - INFO - No pods to be deleted
+2025-02-26 22:40:24,324 - INFO - No pods to be deleted
+2025-02-26 22:40:24,324 - INFO - No pods to be deleted
+2025-02-26 22:40:24,324 - INFO - No pods to be deleted
+2025-02-26 22:40:24,324 - INFO - No pods to be deleted
+2025-02-26 22:40:24,324 - INFO - No pods to be deleted
+2025-02-26 22:40:24,324 - INFO - No pods to be deleted
+2025-02-26 22:40:24,324 - INFO - Pods with lifetime >= peak lifetime deleted.
+2025-02-26 22:40:24,455 - INFO - cdf_value: 0.8203523346935854
+2025-02-26 22:40:24,459 - INFO - deflection_lifetime,max_lifetime: 260.0,1200
+2025-02-26 22:40:24,464 - INFO - Set the reset the status to active
+2025-02-26 22:40:24,494 - INFO - No pods to be deleted
+2025-02-26 22:40:24,494 - INFO - No pods to be deleted
+2025-02-26 22:40:24,494 - INFO - No pods to be deleted
+2025-02-26 22:40:24,494 - INFO - No pods to be deleted
+2025-02-26 22:40:24,494 - INFO - No pods to be deleted
+2025-02-26 22:40:24,494 - INFO - No pods to be deleted
+2025-02-26 22:40:24,494 - INFO - No pods to be deleted
+2025-02-26 22:40:24,494 - INFO - Pods with lifetime >= peak lifetime deleted.
+2025-02-26 22:40:24,624 - INFO - cdf_value: 0.7485230887310238
+2025-02-26 22:40:24,629 - INFO - deflection_lifetime,max_lifetime: 134.0,1200
+2025-02-26 22:40:24,635 - INFO - Set the reset the status to active
+2025-02-26 22:40:24,665 - INFO - No pods to be deleted
+2025-02-26 22:40:24,665 - INFO - No pods to be deleted
+2025-02-26 22:40:24,665 - INFO - No pods to be deleted
+2025-02-26 22:40:24,665 - INFO - No pods to be deleted
+2025-02-26 22:40:24,665 - INFO - No pods to be deleted
+2025-02-26 22:40:24,665 - INFO - No pods to be deleted
+2025-02-26 22:40:24,665 - INFO - No pods to be deleted
+2025-02-26 22:40:24,665 - INFO - Pods with lifetime >= peak lifetime deleted.
+2025-02-26 22:40:24,797 - INFO - cdf_value: 0.8698593366093812
+2025-02-26 22:40:24,800 - INFO - deflection_lifetime,max_lifetime: 506.0,1200
+2025-02-26 22:40:24,806 - INFO - Set the reset the status to active
+2025-02-26 22:40:24,836 - INFO - No pods to be deleted
+2025-02-26 22:40:24,836 - INFO - No pods to be deleted
+2025-02-26 22:40:24,836 - INFO - No pods to be deleted
+2025-02-26 22:40:24,836 - INFO - No pods to be deleted
+2025-02-26 22:40:24,836 - INFO - No pods to be deleted
+2025-02-26 22:40:24,836 - INFO - No pods to be deleted
+2025-02-26 22:40:24,836 - INFO - No pods to be deleted
+2025-02-26 22:40:24,836 - INFO - Pods with lifetime >= peak lifetime deleted.
+2025-02-26 22:40:24,965 - INFO - cdf_value: 0.8583946460305664
+2025-02-26 22:40:24,969 - INFO - deflection_lifetime,max_lifetime: 424.0,1200
+2025-02-26 22:40:24,975 - INFO - Set the reset the status to active
+2025-02-26 22:40:25,004 - INFO - No pods to be deleted
+2025-02-26 22:40:25,004 - INFO - No pods to be deleted
+2025-02-26 22:40:25,004 - INFO - No pods to be deleted
+2025-02-26 22:40:25,004 - INFO - No pods to be deleted
+2025-02-26 22:40:25,004 - INFO - No pods to be deleted
+2025-02-26 22:40:25,004 - INFO - No pods to be deleted
+2025-02-26 22:40:25,005 - INFO - No pods to be deleted
+2025-02-26 22:40:25,005 - INFO - Pods with lifetime >= peak lifetime deleted.
+2025-02-26 22:40:25,134 - INFO - cdf_value: 0.7504548178844437
+2025-02-26 22:40:25,138 - INFO - deflection_lifetime,max_lifetime: 136.0,1200
+2025-02-26 22:40:25,144 - INFO - Set the reset the status to active
+2025-02-26 22:40:25,174 - INFO - No pods to be deleted
+2025-02-26 22:40:25,174 - INFO - No pods to be deleted
+2025-02-26 22:40:25,174 - INFO - No pods to be deleted
+2025-02-26 22:40:25,174 - INFO - No pods to be deleted
+2025-02-26 22:40:25,175 - INFO - No pods to be deleted
+2025-02-26 22:40:25,175 - INFO - No pods to be deleted
+2025-02-26 22:40:25,175 - INFO - No pods to be deleted
+2025-02-26 22:40:25,175 - INFO - Pods with lifetime >= peak lifetime deleted.
+2025-02-26 22:40:25,305 - INFO - cdf_value: 0.7400649936736073
+2025-02-26 22:40:25,309 - INFO - deflection_lifetime,max_lifetime: 126.0,1200
+2025-02-26 22:40:25,316 - INFO - Set the reset the status to active
+2025-02-26 22:40:25,345 - INFO - No pods to be deleted
+2025-02-26 22:40:25,345 - INFO - No pods to be deleted
+2025-02-26 22:40:25,345 - INFO - No pods to be deleted
+2025-02-26 22:40:25,345 - INFO - No pods to be deleted
+2025-02-26 22:40:25,345 - INFO - No pods to be deleted
+2025-02-26 22:40:25,345 - INFO - No pods to be deleted
+2025-02-26 22:40:25,345 - INFO - No pods to be deleted
+2025-02-26 22:40:25,345 - INFO - Pods with lifetime >= peak lifetime deleted.
+2025-02-26 22:40:25,476 - INFO - cdf_value: 0.7093151616027403
+2025-02-26 22:40:25,480 - INFO - deflection_lifetime,max_lifetime: 104.0,1200
+2025-02-26 22:40:25,486 - INFO - Set the reset the status to active
+2025-02-26 22:40:25,515 - INFO - No pods to be deleted
+2025-02-26 22:40:25,515 - INFO - No pods to be deleted
+2025-02-26 22:40:25,515 - INFO - No pods to be deleted
+2025-02-26 22:40:25,515 - INFO - No pods to be deleted
+2025-02-26 22:40:25,515 - INFO - No pods to be deleted
+2025-02-26 22:40:25,515 - INFO - No pods to be deleted
+2025-02-26 22:40:25,515 - INFO - No pods to be deleted
+2025-02-26 22:40:25,515 - INFO - Pods with lifetime >= peak lifetime deleted.
+2025-02-26 22:40:25,661 - INFO - cdf_value: 0.7237161929473701
+2025-02-26 22:40:25,666 - INFO - deflection_lifetime,max_lifetime: 115.0,1200
+2025-02-26 22:40:25,673 - INFO - Set the reset the status to active
+2025-02-26 22:40:25,707 - INFO - No pods to be deleted
+2025-02-26 22:40:25,707 - INFO - No pods to be deleted
+2025-02-26 22:40:25,707 - INFO - No pods to be deleted
+2025-02-26 22:40:25,707 - INFO - No pods to be deleted
+2025-02-26 22:40:25,707 - INFO - No pods to be deleted
+2025-02-26 22:40:25,707 - INFO - No pods to be deleted
+2025-02-26 22:40:25,708 - INFO - No pods to be deleted
+2025-02-26 22:40:25,708 - INFO - Pods with lifetime >= peak lifetime deleted.
+2025-02-26 22:40:25,837 - INFO - cdf_value: 0.8258952176852846
+2025-02-26 22:40:25,840 - INFO - deflection_lifetime,max_lifetime: 280.0,1200
+2025-02-26 22:40:25,846 - INFO - Set the reset the status to active
+2025-02-26 22:40:25,877 - INFO - No pods to be deleted
+2025-02-26 22:40:25,877 - INFO - No pods to be deleted
+2025-02-26 22:40:25,877 - INFO - No pods to be deleted
+2025-02-26 22:40:25,877 - INFO - No pods to be deleted
+2025-02-26 22:40:25,877 - INFO - No pods to be deleted
+2025-02-26 22:40:25,877 - INFO - No pods to be deleted
+2025-02-26 22:40:25,877 - INFO - No pods to be deleted
+2025-02-26 22:40:25,877 - INFO - Pods with lifetime >= peak lifetime deleted.
+2025-02-26 22:40:26,005 - INFO - cdf_value: 0.7241401800309344
+2025-02-26 22:40:26,010 - INFO - deflection_lifetime,max_lifetime: 116.0,1200
+2025-02-26 22:40:26,015 - INFO - Set the reset the status to active
+2025-02-26 22:40:26,045 - INFO - No pods to be deleted
+2025-02-26 22:40:26,045 - INFO - No pods to be deleted
+2025-02-26 22:40:26,045 - INFO - No pods to be deleted
+2025-02-26 22:40:26,045 - INFO - No pods to be deleted
+2025-02-26 22:40:26,045 - INFO - No pods to be deleted
+2025-02-26 22:40:26,045 - INFO - No pods to be deleted
+2025-02-26 22:40:26,045 - INFO - No pods to be deleted
+2025-02-26 22:40:26,045 - INFO - Pods with lifetime >= peak lifetime deleted.
+2025-02-26 22:40:26,175 - INFO - cdf_value: 0.750867391516838
+2025-02-26 22:40:26,179 - INFO - deflection_lifetime,max_lifetime: 136.0,1200
+2025-02-26 22:40:26,185 - INFO - Set the reset the status to active
+2025-02-26 22:40:26,214 - INFO - No pods to be deleted
+2025-02-26 22:40:26,214 - INFO - No pods to be deleted
+2025-02-26 22:40:26,214 - INFO - No pods to be deleted
+2025-02-26 22:40:26,214 - INFO - No pods to be deleted
+2025-02-26 22:40:26,214 - INFO - No pods to be deleted
+2025-02-26 22:40:26,214 - INFO - No pods to be deleted
+2025-02-26 22:40:26,214 - INFO - No pods to be deleted
+2025-02-26 22:40:26,214 - INFO - Pods with lifetime >= peak lifetime deleted.
+2025-02-26 22:40:26,344 - INFO - cdf_value: 0.8312297470013995
+2025-02-26 22:40:26,347 - INFO - deflection_lifetime,max_lifetime: 298.0,1200
+2025-02-26 22:40:26,353 - INFO - Set the reset the status to active
+2025-02-26 22:40:26,384 - INFO - No pods to be deleted
+2025-02-26 22:40:26,384 - INFO - No pods to be deleted
+2025-02-26 22:40:26,384 - INFO - No pods to be deleted
+2025-02-26 22:40:26,384 - INFO - No pods to be deleted
+2025-02-26 22:40:26,384 - INFO - No pods to be deleted
+2025-02-26 22:40:26,385 - INFO - No pods to be deleted
+2025-02-26 22:40:26,385 - INFO - No pods to be deleted
+2025-02-26 22:40:26,385 - INFO - Pods with lifetime >= peak lifetime deleted.
+2025-02-26 22:40:26,549 - INFO - cdf_value: 0.7169439308764651
+2025-02-26 22:40:26,555 - INFO - deflection_lifetime,max_lifetime: 110.0,1200
+2025-02-26 22:40:26,562 - INFO - Set the reset the status to active
+2025-02-26 22:40:26,597 - INFO - No pods to be deleted
+2025-02-26 22:40:26,597 - INFO - No pods to be deleted
+2025-02-26 22:40:26,597 - INFO - No pods to be deleted
+2025-02-26 22:40:26,597 - INFO - No pods to be deleted
+2025-02-26 22:40:26,597 - INFO - No pods to be deleted
+2025-02-26 22:40:26,597 - INFO - No pods to be deleted
+2025-02-26 22:40:26,597 - INFO - No pods to be deleted
+2025-02-26 22:40:26,597 - INFO - Pods with lifetime >= peak lifetime deleted.
+2025-02-26 22:40:26,739 - INFO - cdf_value: 0.8490088434019716
+2025-02-26 22:40:26,743 - INFO - deflection_lifetime,max_lifetime: 372.0,1200
+2025-02-26 22:40:26,750 - INFO - Set the reset the status to active
+2025-02-26 22:40:26,796 - INFO - No pods to be deleted
+2025-02-26 22:40:26,796 - INFO - No pods to be deleted
+2025-02-26 22:40:26,796 - INFO - No pods to be deleted
+2025-02-26 22:40:26,796 - INFO - No pods to be deleted
+2025-02-26 22:40:26,796 - INFO - No pods to be deleted
+2025-02-26 22:40:26,796 - INFO - No pods to be deleted
+2025-02-26 22:40:26,796 - INFO - No pods to be deleted
+2025-02-26 22:40:26,796 - INFO - Pods with lifetime >= peak lifetime deleted.
+2025-02-26 22:40:26,926 - INFO - cdf_value: 0.7511215496057745
+2025-02-26 22:40:26,931 - INFO - deflection_lifetime,max_lifetime: 136.0,1200
+2025-02-26 22:40:26,937 - INFO - Set the reset the status to active
+2025-02-26 22:40:26,966 - INFO - No pods to be deleted
+2025-02-26 22:40:26,966 - INFO - No pods to be deleted
+2025-02-26 22:40:26,966 - INFO - No pods to be deleted
+2025-02-26 22:40:26,966 - INFO - No pods to be deleted
+2025-02-26 22:40:26,966 - INFO - No pods to be deleted
+2025-02-26 22:40:26,966 - INFO - No pods to be deleted
+2025-02-26 22:40:26,967 - INFO - No pods to be deleted
+2025-02-26 22:40:26,967 - INFO - Pods with lifetime >= peak lifetime deleted.
+2025-02-26 22:40:27,096 - INFO - cdf_value: 0.7297749285248128
+2025-02-26 22:40:27,101 - INFO - deflection_lifetime,max_lifetime: 120.0,1200
+2025-02-26 22:40:27,107 - INFO - Set the reset the status to active
+2025-02-26 22:40:27,137 - INFO - No pods to be deleted
+2025-02-26 22:40:27,137 - INFO - No pods to be deleted
+2025-02-26 22:40:27,137 - INFO - No pods to be deleted
+2025-02-26 22:40:27,137 - INFO - No pods to be deleted
+2025-02-26 22:40:27,137 - INFO - No pods to be deleted
+2025-02-26 22:40:27,137 - INFO - No pods to be deleted
+2025-02-26 22:40:27,138 - INFO - No pods to be deleted
+2025-02-26 22:40:27,138 - INFO - Pods with lifetime >= peak lifetime deleted.
+2025-02-26 22:40:27,287 - INFO - cdf_value: 0.8350788752035774
+2025-02-26 22:40:27,291 - INFO - deflection_lifetime,max_lifetime: 310.0,1200
+2025-02-26 22:40:27,299 - INFO - Set the reset the status to active
+2025-02-26 22:40:27,333 - INFO - No pods to be deleted
+2025-02-26 22:40:27,333 - INFO - No pods to be deleted
+2025-02-26 22:40:27,333 - INFO - No pods to be deleted
+2025-02-26 22:40:27,333 - INFO - No pods to be deleted
+2025-02-26 22:40:27,333 - INFO - No pods to be deleted
+2025-02-26 22:40:27,333 - INFO - No pods to be deleted
+2025-02-26 22:40:27,333 - INFO - No pods to be deleted
+2025-02-26 22:40:27,333 - INFO - Pods with lifetime >= peak lifetime deleted.
+2025-02-26 22:40:27,503 - INFO - cdf_value: 0.7668877836553922
+2025-02-26 22:40:27,507 - INFO - deflection_lifetime,max_lifetime: 157.0,1200
+2025-02-26 22:40:27,514 - INFO - Set the reset the status to active
+2025-02-26 22:40:27,551 - INFO - No pods to be deleted
+2025-02-26 22:40:27,551 - INFO - No pods to be deleted
+2025-02-26 22:40:27,551 - INFO - No pods to be deleted
+2025-02-26 22:40:27,551 - INFO - No pods to be deleted
+2025-02-26 22:40:27,551 - INFO - No pods to be deleted
+2025-02-26 22:40:27,551 - INFO - No pods to be deleted
+2025-02-26 22:40:27,551 - INFO - No pods to be deleted
+2025-02-26 22:40:27,551 - INFO - Pods with lifetime >= peak lifetime deleted.
+2025-02-26 22:40:27,682 - INFO - cdf_value: 0.7112608977722256
+2025-02-26 22:40:27,687 - INFO - deflection_lifetime,max_lifetime: 106.0,1200
+2025-02-26 22:40:27,693 - INFO - Set the reset the status to active
+2025-02-26 22:40:27,722 - INFO - No pods to be deleted
+2025-02-26 22:40:27,722 - INFO - No pods to be deleted
+2025-02-26 22:40:27,722 - INFO - No pods to be deleted
+2025-02-26 22:40:27,722 - INFO - No pods to be deleted
+2025-02-26 22:40:27,722 - INFO - No pods to be deleted
+2025-02-26 22:40:27,722 - INFO - No pods to be deleted
+2025-02-26 22:40:27,722 - INFO - No pods to be deleted
+2025-02-26 22:40:27,722 - INFO - Pods with lifetime >= peak lifetime deleted.
+2025-02-26 22:40:27,868 - INFO - cdf_value: 0.8368636256675592
+2025-02-26 22:40:27,873 - INFO - deflection_lifetime,max_lifetime: 316.0,1200
+2025-02-26 22:40:27,880 - INFO - Set the reset the status to active
+2025-02-26 22:40:27,938 - INFO - No pods to be deleted
+2025-02-26 22:40:27,938 - INFO - No pods to be deleted
+2025-02-26 22:40:27,939 - INFO - No pods to be deleted
+2025-02-26 22:40:27,939 - INFO - No pods to be deleted
+2025-02-26 22:40:27,939 - INFO - No pods to be deleted
+2025-02-26 22:40:27,939 - INFO - No pods to be deleted
+2025-02-26 22:40:27,939 - INFO - No pods to be deleted
+2025-02-26 22:40:27,939 - INFO - Pods with lifetime >= peak lifetime deleted.
+2025-02-26 22:40:28,088 - INFO - cdf_value: 0.8876972815134772
+2025-02-26 22:40:28,091 - INFO - deflection_lifetime,max_lifetime: 1200.0,1200
+2025-02-26 22:40:28,097 - INFO - Set the reset the status to active
+2025-02-26 22:40:28,131 - INFO - No pods to be deleted
+2025-02-26 22:40:28,131 - INFO - No pods to be deleted
+2025-02-26 22:40:28,131 - INFO - No pods to be deleted
+2025-02-26 22:40:28,131 - INFO - No pods to be deleted
+2025-02-26 22:40:28,131 - INFO - No pods to be deleted
+2025-02-26 22:40:28,131 - INFO - No pods to be deleted
+2025-02-26 22:40:28,131 - INFO - No pods to be deleted
+2025-02-26 22:40:28,131 - INFO - Pods with lifetime >= peak lifetime deleted.
+2025-02-26 22:40:28,306 - INFO - cdf_value: 0.8974046531596207
+2025-02-26 22:40:28,310 - INFO - deflection_lifetime,max_lifetime: 1200.0,1200
+2025-02-26 22:40:28,318 - INFO - Set the reset the status to active
+2025-02-26 22:40:28,354 - INFO - No pods to be deleted
+2025-02-26 22:40:28,354 - INFO - No pods to be deleted
+2025-02-26 22:40:28,354 - INFO - No pods to be deleted
+2025-02-26 22:40:28,354 - INFO - No pods to be deleted
+2025-02-26 22:40:28,354 - INFO - No pods to be deleted
+2025-02-26 22:40:28,354 - INFO - No pods to be deleted
+2025-02-26 22:40:28,354 - INFO - No pods to be deleted
+2025-02-26 22:40:28,354 - INFO - Pods with lifetime >= peak lifetime deleted.
+2025-02-26 22:40:28,528 - INFO - cdf_value: 0.7496593008755449
+2025-02-26 22:40:28,534 - INFO - deflection_lifetime,max_lifetime: 135.0,1200
+2025-02-26 22:40:28,540 - INFO - Set the reset the status to active
+2025-02-26 22:40:28,570 - INFO - No pods to be deleted
+2025-02-26 22:40:28,570 - INFO - No pods to be deleted
+2025-02-26 22:40:28,571 - INFO - No pods to be deleted
+2025-02-26 22:40:28,571 - INFO - No pods to be deleted
+2025-02-26 22:40:28,571 - INFO - No pods to be deleted
+2025-02-26 22:40:28,571 - INFO - No pods to be deleted
+2025-02-26 22:40:28,571 - INFO - No pods to be deleted
+2025-02-26 22:40:28,571 - INFO - Pods with lifetime >= peak lifetime deleted.
+2025-02-26 22:40:28,698 - INFO - cdf_value: 0.7546468606138647
+2025-02-26 22:40:28,702 - INFO - deflection_lifetime,max_lifetime: 141.0,1200
+2025-02-26 22:40:28,707 - INFO - Set the reset the status to active
+2025-02-26 22:40:28,738 - INFO - No pods to be deleted
+2025-02-26 22:40:28,738 - INFO - No pods to be deleted
+2025-02-26 22:40:28,738 - INFO - No pods to be deleted
+2025-02-26 22:40:28,739 - INFO - No pods to be deleted
+2025-02-26 22:40:28,739 - INFO - No pods to be deleted
+2025-02-26 22:40:28,739 - INFO - No pods to be deleted
+2025-02-26 22:40:28,739 - INFO - No pods to be deleted
+2025-02-26 22:40:28,739 - INFO - Pods with lifetime >= peak lifetime deleted.
+2025-02-26 22:40:28,869 - INFO - cdf_value: 0.7244249356175244
+2025-02-26 22:40:28,875 - INFO - deflection_lifetime,max_lifetime: 116.0,1200
+2025-02-26 22:40:28,880 - INFO - Set the reset the status to active
+2025-02-26 22:40:28,910 - INFO - No pods to be deleted
+2025-02-26 22:40:28,910 - INFO - No pods to be deleted
+2025-02-26 22:40:28,910 - INFO - No pods to be deleted
+2025-02-26 22:40:28,910 - INFO - No pods to be deleted
+2025-02-26 22:40:28,910 - INFO - No pods to be deleted
+2025-02-26 22:40:28,910 - INFO - No pods to be deleted
+2025-02-26 22:40:28,910 - INFO - No pods to be deleted
+2025-02-26 22:40:28,910 - INFO - Pods with lifetime >= peak lifetime deleted.
+2025-02-26 22:40:29,040 - INFO - cdf_value: 0.8813225246576563
+2025-02-26 22:40:29,044 - INFO - deflection_lifetime,max_lifetime: 1200.0,1200
+2025-02-26 22:40:29,049 - INFO - Set the reset the status to active
+2025-02-26 22:40:29,081 - INFO - No pods to be deleted
+2025-02-26 22:40:29,082 - INFO - No pods to be deleted
+2025-02-26 22:40:29,082 - INFO - No pods to be deleted
+2025-02-26 22:40:29,082 - INFO - No pods to be deleted
+2025-02-26 22:40:29,082 - INFO - No pods to be deleted
+2025-02-26 22:40:29,082 - INFO - No pods to be deleted
+2025-02-26 22:40:29,082 - INFO - No pods to be deleted
+2025-02-26 22:40:29,082 - INFO - Pods with lifetime >= peak lifetime deleted.
+2025-02-26 22:40:29,241 - INFO - cdf_value: 0.7594028043144346
+2025-02-26 22:40:29,245 - INFO - deflection_lifetime,max_lifetime: 148.0,1200
+2025-02-26 22:40:29,251 - INFO - Set the reset the status to active
+2025-02-26 22:40:29,282 - INFO - No pods to be deleted
+2025-02-26 22:40:29,282 - INFO - No pods to be deleted
+2025-02-26 22:40:29,282 - INFO - No pods to be deleted
+2025-02-26 22:40:29,282 - INFO - No pods to be deleted
+2025-02-26 22:40:29,282 - INFO - No pods to be deleted
+2025-02-26 22:40:29,282 - INFO - No pods to be deleted
+2025-02-26 22:40:29,282 - INFO - No pods to be deleted
+2025-02-26 22:40:29,282 - INFO - Pods with lifetime >= peak lifetime deleted.
+2025-02-26 22:40:29,410 - INFO - cdf_value: 0.8475753820414113
+2025-02-26 22:40:29,413 - INFO - deflection_lifetime,max_lifetime: 364.0,1200
+2025-02-26 22:40:29,419 - INFO - Set the reset the status to active
+2025-02-26 22:40:29,448 - INFO - No pods to be deleted
+2025-02-26 22:40:29,448 - INFO - No pods to be deleted
+2025-02-26 22:40:29,449 - INFO - No pods to be deleted
+2025-02-26 22:40:29,449 - INFO - No pods to be deleted
+2025-02-26 22:40:29,449 - INFO - No pods to be deleted
+2025-02-26 22:40:29,449 - INFO - No pods to be deleted
+2025-02-26 22:40:29,449 - INFO - No pods to be deleted
+2025-02-26 22:40:29,449 - INFO - Pods with lifetime >= peak lifetime deleted.
+2025-02-26 22:40:29,575 - INFO - cdf_value: 0.7329391640640565
+2025-02-26 22:40:29,580 - INFO - deflection_lifetime,max_lifetime: 120.0,1200
+2025-02-26 22:40:29,585 - INFO - Set the reset the status to active
+2025-02-26 22:40:29,615 - INFO - No pods to be deleted
+2025-02-26 22:40:29,615 - INFO - No pods to be deleted
+2025-02-26 22:40:29,615 - INFO - No pods to be deleted
+2025-02-26 22:40:29,615 - INFO - No pods to be deleted
+2025-02-26 22:40:29,615 - INFO - No pods to be deleted
+2025-02-26 22:40:29,615 - INFO - No pods to be deleted
+2025-02-26 22:40:29,615 - INFO - No pods to be deleted
+2025-02-26 22:40:29,615 - INFO - Pods with lifetime >= peak lifetime deleted.
+2025-02-26 22:40:29,744 - INFO - cdf_value: 0.7069133808331194
+2025-02-26 22:40:29,749 - INFO - deflection_lifetime,max_lifetime: 102.0,1200
+2025-02-26 22:40:29,754 - INFO - Set the reset the status to active
+2025-02-26 22:40:29,784 - INFO - No pods to be deleted
+2025-02-26 22:40:29,784 - INFO - No pods to be deleted
+2025-02-26 22:40:29,784 - INFO - No pods to be deleted
+2025-02-26 22:40:29,784 - INFO - No pods to be deleted
+2025-02-26 22:40:29,784 - INFO - No pods to be deleted
+2025-02-26 22:40:29,784 - INFO - No pods to be deleted
+2025-02-26 22:40:29,785 - INFO - No pods to be deleted
+2025-02-26 22:40:29,785 - INFO - Pods with lifetime >= peak lifetime deleted.
+2025-02-26 22:40:29,911 - INFO - cdf_value: 0.7889487685675312
+2025-02-26 22:40:29,915 - INFO - deflection_lifetime,max_lifetime: 190.0,1200
+2025-02-26 22:40:29,921 - INFO - Set the reset the status to active
+2025-02-26 22:40:29,950 - INFO - No pods to be deleted
+2025-02-26 22:40:29,950 - INFO - No pods to be deleted
+2025-02-26 22:40:29,951 - INFO - No pods to be deleted
+2025-02-26 22:40:29,951 - INFO - No pods to be deleted
+2025-02-26 22:40:29,951 - INFO - No pods to be deleted
+2025-02-26 22:40:29,951 - INFO - No pods to be deleted
+2025-02-26 22:40:29,951 - INFO - No pods to be deleted
+2025-02-26 22:40:29,951 - INFO - Pods with lifetime >= peak lifetime deleted.
+2025-02-26 22:40:30,077 - INFO - cdf_value: 0.8916941034324428
+2025-02-26 22:40:30,080 - INFO - deflection_lifetime,max_lifetime: 1200.0,1200
+2025-02-26 22:40:30,086 - INFO - Set the reset the status to active
+2025-02-26 22:40:30,109 - INFO - No pods to be deleted
+2025-02-26 22:40:30,109 - INFO - No pods to be deleted
+2025-02-26 22:40:30,109 - INFO - No pods to be deleted
+2025-02-26 22:40:30,109 - INFO - No pods to be deleted
+2025-02-26 22:40:30,110 - INFO - No pods to be deleted
+2025-02-26 22:40:30,110 - INFO - No pods to be deleted
+2025-02-26 22:40:30,110 - INFO - No pods to be deleted
+2025-02-26 22:40:30,110 - INFO - Pods with lifetime >= peak lifetime deleted.
+2025-02-26 22:40:30,236 - INFO - cdf_value: 0.7526108881358188
+2025-02-26 22:40:30,240 - INFO - deflection_lifetime,max_lifetime: 138.0,1200
+2025-02-26 22:40:30,246 - INFO - Set the reset the status to active
+2025-02-26 22:40:30,277 - INFO - No pods to be deleted
+2025-02-26 22:40:30,277 - INFO - No pods to be deleted
+2025-02-26 22:40:30,277 - INFO - No pods to be deleted
+2025-02-26 22:40:30,277 - INFO - No pods to be deleted
+2025-02-26 22:40:30,277 - INFO - No pods to be deleted
+2025-02-26 22:40:30,277 - INFO - No pods to be deleted
+2025-02-26 22:40:30,277 - INFO - No pods to be deleted
+2025-02-26 22:40:30,277 - INFO - Pods with lifetime >= peak lifetime deleted.
+2025-02-26 22:40:30,404 - INFO - cdf_value: 0.8910162336171185
+2025-02-26 22:40:30,407 - INFO - deflection_lifetime,max_lifetime: 1200.0,1200
+2025-02-26 22:40:30,413 - INFO - Set the reset the status to active
+2025-02-26 22:40:30,442 - INFO - No pods to be deleted
+2025-02-26 22:40:30,442 - INFO - No pods to be deleted
+2025-02-26 22:40:30,442 - INFO - No pods to be deleted
+2025-02-26 22:40:30,443 - INFO - No pods to be deleted
+2025-02-26 22:40:30,443 - INFO - No pods to be deleted
+2025-02-26 22:40:30,443 - INFO - No pods to be deleted
+2025-02-26 22:40:30,443 - INFO - No pods to be deleted
+2025-02-26 22:40:30,443 - INFO - Pods with lifetime >= peak lifetime deleted.
+2025-02-26 22:40:30,569 - INFO - cdf_value: 0.7291942200566706
+2025-02-26 22:40:30,573 - INFO - deflection_lifetime,max_lifetime: 119.0,1200
+2025-02-26 22:40:30,579 - INFO - Set the reset the status to active
+2025-02-26 22:40:30,608 - INFO - No pods to be deleted
+2025-02-26 22:40:30,609 - INFO - No pods to be deleted
+2025-02-26 22:40:30,609 - INFO - No pods to be deleted
+2025-02-26 22:40:30,609 - INFO - No pods to be deleted
+2025-02-26 22:40:30,609 - INFO - No pods to be deleted
+2025-02-26 22:40:30,609 - INFO - No pods to be deleted
+2025-02-26 22:40:30,609 - INFO - No pods to be deleted
+2025-02-26 22:40:30,609 - INFO - Pods with lifetime >= peak lifetime deleted.
+2025-02-26 22:40:30,736 - INFO - cdf_value: 0.7905704777791888
+2025-02-26 22:40:30,740 - INFO - deflection_lifetime,max_lifetime: 192.0,1200
+2025-02-26 22:40:30,746 - INFO - Set the reset the status to active
+2025-02-26 22:40:30,775 - INFO - No pods to be deleted
+2025-02-26 22:40:30,775 - INFO - No pods to be deleted
+2025-02-26 22:40:30,775 - INFO - No pods to be deleted
+2025-02-26 22:40:30,775 - INFO - No pods to be deleted
+2025-02-26 22:40:30,775 - INFO - No pods to be deleted
+2025-02-26 22:40:30,775 - INFO - No pods to be deleted
+2025-02-26 22:40:30,775 - INFO - No pods to be deleted
+2025-02-26 22:40:30,775 - INFO - Pods with lifetime >= peak lifetime deleted.
+2025-02-26 22:40:30,902 - INFO - cdf_value: 0.7680430850760767
+2025-02-26 22:40:30,906 - INFO - deflection_lifetime,max_lifetime: 159.0,1200
+2025-02-26 22:40:30,912 - INFO - Set the reset the status to active
+2025-02-26 22:40:30,942 - INFO - No pods to be deleted
+2025-02-26 22:40:30,942 - INFO - No pods to be deleted
+2025-02-26 22:40:30,942 - INFO - No pods to be deleted
+2025-02-26 22:40:30,942 - INFO - No pods to be deleted
+2025-02-26 22:40:30,942 - INFO - No pods to be deleted
+2025-02-26 22:40:30,942 - INFO - No pods to be deleted
+2025-02-26 22:40:30,942 - INFO - No pods to be deleted
+2025-02-26 22:40:30,942 - INFO - Pods with lifetime >= peak lifetime deleted.
+2025-02-26 22:40:31,069 - INFO - cdf_value: 0.7924979540532768
+2025-02-26 22:40:31,073 - INFO - deflection_lifetime,max_lifetime: 196.0,1200
+2025-02-26 22:40:31,079 - INFO - Set the reset the status to active
+2025-02-26 22:40:31,112 - INFO - No pods to be deleted
+2025-02-26 22:40:31,112 - INFO - No pods to be deleted
+2025-02-26 22:40:31,112 - INFO - No pods to be deleted
+2025-02-26 22:40:31,113 - INFO - No pods to be deleted
+2025-02-26 22:40:31,113 - INFO - No pods to be deleted
+2025-02-26 22:40:31,113 - INFO - No pods to be deleted
+2025-02-26 22:40:31,113 - INFO - No pods to be deleted
+2025-02-26 22:40:31,113 - INFO - Pods with lifetime >= peak lifetime deleted.
+2025-02-26 22:40:31,240 - INFO - cdf_value: 0.7880953314550225
+2025-02-26 22:40:31,243 - INFO - deflection_lifetime,max_lifetime: 188.0,1200
+2025-02-26 22:40:31,249 - INFO - Set the reset the status to active
+2025-02-26 22:40:31,279 - INFO - No pods to be deleted
+2025-02-26 22:40:31,280 - INFO - No pods to be deleted
+2025-02-26 22:40:31,280 - INFO - No pods to be deleted
+2025-02-26 22:40:31,280 - INFO - No pods to be deleted
+2025-02-26 22:40:31,280 - INFO - No pods to be deleted
+2025-02-26 22:40:31,280 - INFO - No pods to be deleted
+2025-02-26 22:40:31,280 - INFO - No pods to be deleted
+2025-02-26 22:40:31,280 - INFO - Pods with lifetime >= peak lifetime deleted.
+2025-02-26 22:40:31,406 - INFO - cdf_value: 0.7232083631165852
+2025-02-26 22:40:31,411 - INFO - deflection_lifetime,max_lifetime: 114.0,1200
+2025-02-26 22:40:31,417 - INFO - Set the reset the status to active
+2025-02-26 22:40:31,446 - INFO - No pods to be deleted
+2025-02-26 22:40:31,446 - INFO - No pods to be deleted
+2025-02-26 22:40:31,446 - INFO - No pods to be deleted
+2025-02-26 22:40:31,446 - INFO - No pods to be deleted
+2025-02-26 22:40:31,447 - INFO - No pods to be deleted
+2025-02-26 22:40:31,447 - INFO - No pods to be deleted
+2025-02-26 22:40:31,447 - INFO - No pods to be deleted
+2025-02-26 22:40:31,447 - INFO - Pods with lifetime >= peak lifetime deleted.
+2025-02-26 22:40:31,573 - INFO - cdf_value: 0.7495759544517486
+2025-02-26 22:40:31,577 - INFO - deflection_lifetime,max_lifetime: 135.0,1200
+2025-02-26 22:40:31,583 - INFO - Set the reset the status to active
+2025-02-26 22:40:31,613 - INFO - No pods to be deleted
+2025-02-26 22:40:31,613 - INFO - No pods to be deleted
+2025-02-26 22:40:31,613 - INFO - No pods to be deleted
+2025-02-26 22:40:31,613 - INFO - No pods to be deleted
+2025-02-26 22:40:31,613 - INFO - No pods to be deleted
+2025-02-26 22:40:31,613 - INFO - No pods to be deleted
+2025-02-26 22:40:31,613 - INFO - No pods to be deleted
+2025-02-26 22:40:31,613 - INFO - Pods with lifetime >= peak lifetime deleted.
+2025-02-26 22:40:31,740 - INFO - cdf_value: 0.8144061251474173
+2025-02-26 22:40:31,744 - INFO - deflection_lifetime,max_lifetime: 244.0,1200
+2025-02-26 22:40:31,750 - INFO - Set the reset the status to active
+2025-02-26 22:40:31,780 - INFO - No pods to be deleted
+2025-02-26 22:40:31,780 - INFO - No pods to be deleted
+2025-02-26 22:40:31,780 - INFO - No pods to be deleted
+2025-02-26 22:40:31,780 - INFO - No pods to be deleted
+2025-02-26 22:40:31,780 - INFO - No pods to be deleted
+2025-02-26 22:40:31,780 - INFO - No pods to be deleted
+2025-02-26 22:40:31,780 - INFO - No pods to be deleted
+2025-02-26 22:40:31,780 - INFO - Pods with lifetime >= peak lifetime deleted.
+2025-02-26 22:40:31,911 - INFO - cdf_value: 0.7133304179244429
+2025-02-26 22:40:31,916 - INFO - deflection_lifetime,max_lifetime: 107.0,1200
+2025-02-26 22:40:31,924 - INFO - Set the reset the status to active
+2025-02-26 22:40:31,959 - INFO - No pods to be deleted
+2025-02-26 22:40:31,959 - INFO - No pods to be deleted
+2025-02-26 22:40:31,959 - INFO - No pods to be deleted
+2025-02-26 22:40:31,959 - INFO - No pods to be deleted
+2025-02-26 22:40:31,959 - INFO - No pods to be deleted
+2025-02-26 22:40:31,959 - INFO - No pods to be deleted
+2025-02-26 22:40:31,959 - INFO - No pods to be deleted
+2025-02-26 22:40:31,959 - INFO - Pods with lifetime >= peak lifetime deleted.
+2025-02-26 22:40:32,098 - INFO - cdf_value: 0.8766188621879577
+2025-02-26 22:40:32,101 - INFO - deflection_lifetime,max_lifetime: 565.0,1200
+2025-02-26 22:40:32,107 - INFO - Set the reset the status to active
+2025-02-26 22:40:32,138 - INFO - No pods to be deleted
+2025-02-26 22:40:32,138 - INFO - No pods to be deleted
+2025-02-26 22:40:32,138 - INFO - No pods to be deleted
+2025-02-26 22:40:32,138 - INFO - No pods to be deleted
+2025-02-26 22:40:32,138 - INFO - No pods to be deleted
+2025-02-26 22:40:32,138 - INFO - No pods to be deleted
+2025-02-26 22:40:32,138 - INFO - No pods to be deleted
+2025-02-26 22:40:32,138 - INFO - Pods with lifetime >= peak lifetime deleted.
+2025-02-26 22:40:32,266 - INFO - cdf_value: 0.7471394569720272
+2025-02-26 22:40:32,270 - INFO - deflection_lifetime,max_lifetime: 132.0,1200
+2025-02-26 22:40:32,276 - INFO - Set the reset the status to active
+2025-02-26 22:40:32,306 - INFO - No pods to be deleted
+2025-02-26 22:40:32,306 - INFO - No pods to be deleted
+2025-02-26 22:40:32,306 - INFO - No pods to be deleted
+2025-02-26 22:40:32,306 - INFO - No pods to be deleted
+2025-02-26 22:40:32,307 - INFO - No pods to be deleted
+2025-02-26 22:40:32,307 - INFO - No pods to be deleted
+2025-02-26 22:40:32,307 - INFO - No pods to be deleted
+2025-02-26 22:40:32,307 - INFO - Pods with lifetime >= peak lifetime deleted.
+2025-02-26 22:40:32,434 - INFO - cdf_value: 0.8201024453782702
+2025-02-26 22:40:32,437 - INFO - deflection_lifetime,max_lifetime: 260.0,1200
+2025-02-26 22:40:32,443 - INFO - Set the reset the status to active
+2025-02-26 22:40:32,474 - INFO - No pods to be deleted
+2025-02-26 22:40:32,474 - INFO - No pods to be deleted
+2025-02-26 22:40:32,474 - INFO - No pods to be deleted
+2025-02-26 22:40:32,474 - INFO - No pods to be deleted
+2025-02-26 22:40:32,474 - INFO - No pods to be deleted
+2025-02-26 22:40:32,474 - INFO - No pods to be deleted
+2025-02-26 22:40:32,474 - INFO - No pods to be deleted
+2025-02-26 22:40:32,474 - INFO - Pods with lifetime >= peak lifetime deleted.
+2025-02-26 22:40:32,603 - INFO - cdf_value: 0.7358504491655333
+2025-02-26 22:40:32,607 - INFO - deflection_lifetime,max_lifetime: 122.0,1200
+2025-02-26 22:40:32,613 - INFO - Set the reset the status to active
+2025-02-26 22:40:32,665 - INFO - No pods to be deleted
+2025-02-26 22:40:32,665 - INFO - No pods to be deleted
+2025-02-26 22:40:32,665 - INFO - No pods to be deleted
+2025-02-26 22:40:32,665 - INFO - No pods to be deleted
+2025-02-26 22:40:32,665 - INFO - No pods to be deleted
+2025-02-26 22:40:32,665 - INFO - No pods to be deleted
+2025-02-26 22:40:32,665 - INFO - No pods to be deleted
+2025-02-26 22:40:32,665 - INFO - Pods with lifetime >= peak lifetime deleted.

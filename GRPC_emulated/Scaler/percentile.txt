@@ -1,0 +1,5 @@
+(grpc) cloudlabgpu1@cloudlabgpu1:~/grpc_spotlight/GRPC_emulated/data-extraction$ python3 analysis.py 
+           0.25      0.90
+layer                    
+L2     0.262083  0.500897
+L3     0.097320  0.191838

@@ -1,0 +1,48 @@
+syntax = "proto3";
+
+package simplecnn;
+
+// Request message for GetModel
+message ModelRequest {
+    string model_name = 1;
+}
+
+
+// Response message for GetModel
+message ModelResponse {
+    string message = 1;
+    map<string, float> model_state_dict = 2;
+    int32 version = 3;
+    int32 global_version = 4;
+}
+
+message WeightsUpdate {
+    string client_id = 1;
+    string model_name = 2;
+    map<string, ModelWeights> model_weights = 3;
+    int32 num_samples = 4;
+    float loss = 5;
+    int32 version = 6;
+    float Client_training_time = 7;
+    bool compressed = 8;
+}
+
+message ModelWeights {
+    repeated float values = 1;
+    bytes compressed_weights = 2;
+}
+
+// Response message for UpdateModel
+message UpdateResponse {
+    string message = 1;
+    repeated float model_state_dict = 2;
+    int32 version = 3;
+    float aggregation_time = 4;
+    float client_training_time = 5;
+}
+
+// gRPC service
+service ModelService {
+    rpc GetModel (ModelRequest) returns (ModelResponse);
+    rpc UpdateModel (WeightsUpdate) returns (UpdateResponse);
+}

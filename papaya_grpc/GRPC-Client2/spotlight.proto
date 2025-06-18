@@ -1,0 +1,34 @@
+syntax = "proto3";
+
+package spotlight;
+
+// Federated Learning Service definition
+service FederatedLearningService {
+    rpc GetGlobalModel (ModelVersion) returns (ModelResponse);
+    rpc SendModelWeights (ModelWeights) returns (Ack);
+}
+
+// Request message for GetGlobalModel
+message ModelVersion {
+    string version = 1; // Client's requested model version
+}
+
+// Response message for GetGlobalModel
+message ModelResponse {
+    repeated float weights = 1;   // Global model weights as a flat array
+    string version = 2;           // Global model version
+}
+
+// Request message for SendModelWeights
+message ModelWeights {
+    repeated float weights = 1;   // Client model weights as a flat array
+    int32 num_samples = 2;        // Number of samples used for training
+    float timestamp = 3;          // Timestamp of the client
+    int32 version = 4;            // Version of the model used by the client
+}
+
+// Acknowledgement message for SendModelWeights
+message Ack {
+    bool success = 1;             // Whether the update was successful
+    string message = 2;           // Additional message
+}

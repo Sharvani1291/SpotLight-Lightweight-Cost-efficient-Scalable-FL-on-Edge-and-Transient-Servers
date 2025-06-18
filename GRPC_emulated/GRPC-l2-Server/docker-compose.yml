@@ -1,0 +1,11 @@
+
+
+services:
+  l2_fedadam:
+    image: vinabirajdar/spotlight:l2_fedAdam
+    ports:
+      - "50051:50051"
+    deploy:
+      replicas: 3
+      restart_policy:
+        condition: on-failure

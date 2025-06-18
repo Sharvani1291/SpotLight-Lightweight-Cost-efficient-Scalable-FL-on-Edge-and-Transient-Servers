@@ -1,0 +1,41 @@
+   
+    # async def update_weights(self,weights):
+    #     self.fedBuff_weights=weights
+    #     """Update the weights using Exponential Weighted Moving Average (EWMA), return the aggregated weights back to peers"""
+    #     current_time = datetime.now()
+    #     for peer in list(self.peers):
+    #         try:
+    #             async with self.session.get(f"http://{peer}/pull_weights") as resp:
+    #                 if resp.status == 200:
+    #                     data=await resp.json()
+                        
+    #                     #if there is no response from peer, the protcol pushes the current weights to the peer
+    #                     if data is None:
+    #                         self.logger.warning(f"No data received from {peer}")
+    #                         self.logger.info(f"No data received from {peer}")
+    #                         self.logger.info("Pushing current weights to peer")
+    #                         self.push_weights(self.fedBuff_weights,peer)
+                            
+    #                     peer_weights = data.get("weights")
+    #                     peer_time = data.get("timestamp")
+                        
+                        
+    #                     await self.push_weights(self.fedBuff_weights,peer) #Push the current weights to the peer
+                        
+    #                     #if there are peer_weights and the current timestamp is greater than the peer timestamp, we will update the weights using EWMA where the current weights are given higher priority
+        
+    #                     if peer_weights and current_time > peer_time:
+    #                         # Update weights using EWMA
+    #                         self.agg_weights = self.alpha * self.fedBuff_weights + (1 - self.alpha) * peer_weights
+                            
+    #                     #If the current timestmap is less or equal to the peer timestamp, we will use  give equal weight to both the current and peer weights   
+    #                     elif current_time<= peer_time:
+    #                         alpha = 0.5
+    #                         self.agg_weights = alpha * self.fedBuff_weights + (1 - alpha) * peer_weights
+    #                     self.logger.info(f"Updated weights from {peer}")
+
+    #         except Exception as e:
+    #             self.logger.warning(f"Failed to pull weights from {peer}: {e}")
+        
+    #     return self.agg_weights
+    

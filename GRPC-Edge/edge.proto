@@ -1,0 +1,81 @@
+syntax = "proto3";
+package grpc.edge;
+service EdgeLayerAggregatorService {
+    rpc AggregateAndUpdateModel (AggregatedWeights) returns (Ack);
+    rpc UpdateModel (AggregatedWeights) returns (Ack);
+    rpc GetGlobalModel (Empty) returns (ModelWeights);
+    rpc AddNewAggregator (AggregatorInfo) returns (Ack);
+}
+// Client-side updates
+message WeightsUpdate {
+    string client_id = 1;
+    string model_name = 2;
+    map<string, ModelWeights> model_weights = 3;
+    int32 num_samples = 4;
+    float loss = 5;
+    int32 version = 6;
+    float client_training_time = 7;
+    bool compressed = 8;
+}
+
+message AggregatedWeights {
+  string model_name = 1;
+  bytes weights = 2;
+  repeated float float_weights = 3;
+  int32 num_samples = 4;
+  int32 version = 5;
+  bool compressed = 6;
+}
+
+
+
+message ModelWeights {
+    repeated float weights = 1;
+    int32 num_samples = 2;
+}
+
+message ModelState {
+    map<string, ModelWeights> model_state_dict = 1;
+    int32 version = 2;
+}
+
+message ModelRequest {}
+
+message ModelResponse {
+    string message = 1;
+    map<string, ModelWeights> model_state_dict = 2;
+    int32 version = 3;
+    int32 global_version = 4;
+}
+
+message UpdateResponse {
+    string message = 1;
+    repeated float model_state_dict = 2;
+    int32 version = 3;
+    float aggregation_time = 4;
+    float client_training_time = 5;
+}
+
+message ReceiveResponse {
+    string message = 1;
+    int32 version = 2;
+}
+
+// gRPC service definitions
+service ModelService {
+    rpc GetModel (ModelRequest) returns (ModelResponse);
+    rpc UpdateModel (WeightsUpdate) returns (UpdateResponse);
+    rpc ReceiveAggregatedWeightsFromL3 (AggregatedWeights) returns (Ack);
+    rpc ReceiveAggregatedWeightsFromEdge (AggregatedWeights) returns (Ack);
+}
+
+message Ack {
+    bool success = 1;
+    string message = 2;
+}
+
+message AggregatorInfo {
+    string address = 1;
+}
+
+message Empty {}
