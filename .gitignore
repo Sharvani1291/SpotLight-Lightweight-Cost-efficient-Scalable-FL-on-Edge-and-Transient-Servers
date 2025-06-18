@@ -4,3 +4,7 @@ cifar100_data/
 GRPC-client/cifar100_data/
 GRPC-client/cifar100_data/
 GRPC-client/cifar10_data/
+.DS_Store
+GRPC-client/.DS_Store
+GRPC-client/mnist_data/.DS_Store
+GRPC-client/mnist_data/MNIST/.DS_Store
