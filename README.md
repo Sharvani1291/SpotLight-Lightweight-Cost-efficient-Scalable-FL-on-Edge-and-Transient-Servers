@@ -52,12 +52,12 @@ make
 
 ### Run server:
 ```bash
-python3 Server_Code/server.py
+python3 GRPC-server/server.py
 ```
 
 ### Launch clients (can be parallelized):
 ```bash
-python3 Client_Code/client.py --id CLIENT_ID
+python3 GRPC-client/client.py --id CLIENT_ID
 ```
 
 You can use the load-generator to simulate large-scale clients.
