@@ -3,3 +3,4 @@ cifar100_data/
 *.tar.gz
 GRPC-client/cifar100_data/
 GRPC-client/cifar100_data/
+GRPC-client/cifar10_data/
